@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\bin\Debug\net6.0\Entregable1.2.exe
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\bin\Debug\net6.0\Entregable1.2.deps.json
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\bin\Debug\net6.0\Entregable1.2.runtimeconfig.json
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\bin\Debug\net6.0\Entregable1.2.dll
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\bin\Debug\net6.0\Entregable1.2.pdb
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.dll
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\refint\Entregable1.2.dll
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.pdb
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\Entregable1.2.genruntimeconfig.cache
+C:\Users\ESTUDIANTE\Downloads\Entregable1.2\obj\Debug\net6.0\ref\Entregable1.2.dll
